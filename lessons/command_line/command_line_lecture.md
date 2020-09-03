@@ -146,7 +146,7 @@ This prints the data directly to stdout and we can see the whole dataset.
 Nice. 
 
 > Let's save the output of the `curl` command to a file called `data.txt`. How
-would we do that?
+would we do that? ** By typing the codes inside the brackets, " echo curl > data.txt ". Further, when we type "ls" we can see that data.txt is now in the test_directory along with test_file.txt that we had created earlier**
 
 Now that we have the data file, let's learn how to manipulate files.
 
