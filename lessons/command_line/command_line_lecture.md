@@ -193,7 +193,8 @@ We can get even fancier by adding a second flag
 ls -lh
 ```
 
-> What changed?
+> What changed?  
+> **Comment: The new output was the same as before for the most part. The only noticeable change was the file size is now shown in Bytes (i.e. 5B, 12B, etc.)**
 
 If instead copying we just want to change the name of a file, we can do:
 
