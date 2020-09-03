@@ -119,7 +119,8 @@ echo "HELLO WORLD" > test_file.txt
 Now nothing shows up on the screen. List the files and see if you can tell
 why.  
 
-> Hint: we learned how to list all the files up above.  **Comment:** *Listing the files in test_directory using 'ls' shows that this directory has the test_file.txt file contained within!*
+> Hint: we learned how to list all the files up above.  
+> **Comment:** *Listing the files in test_directory using 'ls' shows that this directory has the test_file.txt file contained within!*
 
 The greater than says, "put that output into the following file instead."
 
