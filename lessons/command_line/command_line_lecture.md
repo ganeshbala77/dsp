@@ -68,7 +68,8 @@ cd test_directory
 This "changes directory" and makes the named directory our new working
 directory. 
 
-> Question: How could we make sure that we moved? *the test_directory appears before the % sign in the new line*
+> Question: How could we make sure that we moved? 
+> **Answer:** *The test_directory appears before the % sign in the new line*
 
 Let's get a few special things out of the way as well for command line. When
 we talk about folders, we don't always want to move "into" the next folder
